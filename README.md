@@ -28,7 +28,7 @@ __The Shine Team:__
  - [Bump us at Disboard](https://disboard.org/de/server/1068262042802323496)
 ## Badges
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Shine%20Website&logo=googlechrome&logoColor=white&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fhorizon1010.github.io%2Fshine.github.io%2F)
-[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/ "Go to GitHub Pages homepage")[![Discord - Join Shine](https://img.shields.io/badge/Discord-Join_Shine-important?logo=discord&logoColor=white)](https://dsc.gg/shinehangout)
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/ "Go to GitHub Pages homepage")[![Discord - Join Shine](https://img.shields.io/badge/Discord-Join_Shine-important?logo=discord&logoColor=white)](https://dsc.gg/shinehangout/ "Join the Server!")
 
 ## License:
 
