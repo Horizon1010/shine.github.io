@@ -32,7 +32,7 @@ __The Shine Team:__
 
 ## License:
 
-[LICENSE](https://github.com/Horizon1010/shine.github.io/blob/main/LICENSE)
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/Horizon1010/shine.github.io/blob/main/LICENSE)
 
 ## Languages used:
 
